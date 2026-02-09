@@ -1,0 +1,3 @@
+[submodule "docs/qubes-os"]
+	path = docs/qubes-os
+	url = git@github.com:paulDev2911/qubes-security.git
