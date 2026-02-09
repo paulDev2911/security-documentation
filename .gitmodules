@@ -1,3 +1,6 @@
 [submodule "docs/qubes-os"]
 	path = docs/qubes-os
 	url = git@github.com:paulDev2911/qubes-security.git
+[submodule "docs/mobile-security"]
+	path = docs/mobile-security
+	url = git@github.com:paulDev2911/mobile-security.git
